@@ -1,9 +1,8 @@
 [![GitHub version](https://badge.fury.io/gh/chriscz%2Fpysorter.svg)](https://badge.fury.io/gh/chriscz%2Fpysorter)
 [![PyPI version](https://badge.fury.io/py/pysorter.svg)](https://badge.fury.io/py/pysorter)
-[![Build Status](https://travis-ci.org/chriscz/pysorter.svg?branch=master)](https://travis-ci.org/chriscz/pysorter)
-[![Coverage Status](https://coveralls.io/repos/github/chriscz/pysorter/badge.svg?branch=master)](https://coveralls.io/github/chriscz/pysorter?branch=master)
+[![Build Status](https://travis-ci.org/MarkusHackspacher/pysorter.svg?branch=develop)](https://travis-ci.org/MarkusHackspacher/pysorter)[![Coverage Status](https://coveralls.io/repos/github/chriscz/pysorter/badge.svg?branch=master)](https://coveralls.io/github/chriscz/pysorter?branch=master)
 
-# Pysorter
+# Backupsorter
 
 A Commandline utility for organizing files and directories according to regex patterns.
 
